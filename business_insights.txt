@@ -1,0 +1,136 @@
+
+==================================================
+        SALES & REVENUE ANALYSIS
+              BUSINESS INSIGHTS
+==================================================
+
+Dataset: Simulated Sales Dataset
+Period: January - June 2026
+Total Revenue: Rs. 24,377,200
+
+--------------------------------------------------
+1. PRODUCT PERFORMANCE
+--------------------------------------------------
+
+Highest Revenue Product:
+Laptop
+
+Revenue:
+Rs. 12,045,000
+
+Highest Quantity Sold Product:
+Monitor
+
+Units Sold:
+343
+
+Insight:
+The product generating the highest revenue is an important
+contributor to overall sales performance.
+
+--------------------------------------------------
+2. CATEGORY PERFORMANCE
+--------------------------------------------------
+
+Top Revenue Category:
+Electronics
+
+Category Revenue:
+Rs. 19,973,100
+
+Revenue Contribution:
+81.93%
+
+Insight:
+The leading category contributes a significant share of
+the total revenue.
+
+--------------------------------------------------
+3. MONTHLY PERFORMANCE
+--------------------------------------------------
+
+Best Performing Month:
+March 2026
+
+Revenue:
+Rs. 5,127,800
+
+Lowest Performing Month:
+February 2026
+
+Revenue:
+Rs. 3,104,100
+
+Insight:
+Monthly revenue changes over time. The lowest performing
+month can be investigated to identify possible reasons
+for the decrease.
+
+--------------------------------------------------
+4. REGIONAL PERFORMANCE
+--------------------------------------------------
+
+Highest Revenue Region:
+East
+
+Revenue:
+Rs. 6,910,700
+
+Highest Quantity Region:
+North
+
+Units Sold:
+758
+
+Insight:
+Regional sales performance differs in terms of revenue
+and quantity sold.
+
+--------------------------------------------------
+5. PAYMENT METHOD PERFORMANCE
+--------------------------------------------------
+
+Highest Revenue Payment Method:
+Credit Card
+
+Revenue:
+Rs. 8,554,400
+
+Insight:
+The leading payment method contributes the highest
+revenue among the available payment options.
+
+--------------------------------------------------
+6. BUSINESS RECOMMENDATIONS
+--------------------------------------------------
+
+1. Maintain sufficient inventory for high-revenue products.
+
+2. Investigate the lowest-performing month to understand
+   seasonal or sales-related changes.
+
+3. Explore opportunities to increase sales in categories
+   with lower revenue contributions.
+
+4. Study high-performing regions to identify strategies
+   that may help improve other regions.
+
+5. Continue supporting different payment methods to
+   provide flexibility to customers.
+
+6. Use the dashboard filters to monitor sales trends,
+   revenue, and product performance regularly.
+
+--------------------------------------------------
+NOTE
+--------------------------------------------------
+
+This report is generated from a simulated dataset
+created for an internship project.
+
+The insights represent sample data analysis and
+not actual company sales.
+
+==================================================
+END OF REPORT
+==================================================

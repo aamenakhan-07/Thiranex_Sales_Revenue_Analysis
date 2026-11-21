@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Unit_Price,Region,Payment_Method,Revenue
+10001,2026-06-13,C1058,Monitor,Electronics,1,12000,East,Credit Card,12000
+10002,2026-02-05,C1009,Monitor,Electronics,9,12000,North,Cash,108000
+10003,2026-01-08,C1144,Monitor,Electronics,4,12000,South,UPI,48000
+10004,2026-02-20,C1072,USB Drive,Accessories,7,700,South,Cash,4900
+10005,2026-01-02,C1040,Keyboard,Accessories,7,1200,East,Debit Card,8400
+10006,2026-02-25,C1025,Office Desk,Furniture,2,8000,North,Cash,16000
+10007,2026-04-02,C1118,Office Desk,Furniture,10,8000,East,UPI,80000
+10008,2026-05-18,C1093,Monitor,Electronics,7,12000,North,Debit Card,84000
+10009,2026-05-28,C1075,Mouse,Accessories,2,500,North,Credit Card,1000
+10010,2026-01-21,C1117,Mouse,Accessories,2,500,West,Debit Card,1000
+10011,2026-06-12,C1054,Office Desk,Furniture,3,8000,East,Debit Card,24000
+10012,2026-06-21,C1042,Office Chair,Furniture,2,4500,South,Credit Card,9000
+10013,2026-04-29,C1015,Headphones,Electronics,5,2500,South,Debit Card,12500
+10014,2026-02-28,C1017,Laptop,Electronics,6,55000,West,Debit Card,330000
+10015,2026-02-24,C1102,Webcam,Electronics,6,3200,South,Cash,19200
+10016,2026-06-14,C1064,Printer,Electronics,3,9500,East,Credit Card,28500
+10017,2026-05-24,C1093,USB Drive,Accessories,5,700,West,Cash,3500
+10018,2026-02-26,C1013,Keyboard,Accessories,9,1200,West,UPI,10800
+10019,2026-01-29,C1099,Keyboard,Accessories,3,1200,West,UPI,3600
+10020,2026-04-08,C1030,Webcam,Electronics,8,3200,East,UPI,25600
+10021,2026-06-24,C1076,USB Drive,Accessories,5,700,East,UPI,3500
+10022,2026-04-22,C1129,Keyboard,Accessories,8,1200,North,Debit Card,9600
+10023,2026-02-15,C1040,USB Drive,Accessories,2,700,East,Credit Card,1400
+10024,2026-04-06,C1126,Keyboard,Accessories,9,1200,North,Debit Card,10800
+10025,2026-01-05,C1015,Monitor,Electronics,6,12000,East,Credit Card,72000
+10026,2026-03-03,C1018,Webcam,Electronics,2,3200,North,Cash,6400
+10027,2026-05-17,C1068,Keyboard,Accessories,3,1200,West,Credit Card,3600
+10028,2026-05-16,C1080,Webcam,Electronics,7,3200,South,Credit Card,22400
+10029,2026-04-13,C1064,Office Desk,Furniture,8,8000,West,UPI,64000
+10030,2026-02-27,C1057,Monitor,Electronics,6,12000,North,Credit Card,72000
+10031,2026-01-02,C1009,Monitor,Electronics,1,12000,South,UPI,12000
+10032,2026-03-26,C1125,Monitor,Electronics,9,12000,South,Debit Card,108000
+10033,2026-02-24,C1122,USB Drive,Accessories,3,700,West,Credit Card,2100
+10034,2026-04-15,C1091,Mouse,Accessories,2,500,North,Cash,1000
+10035,2026-04-19,C1016,Headphones,Electronics,8,2500,North,UPI,20000
+10036,2026-04-14,C1049,Office Desk,Furniture,2,8000,South,Credit Card,16000
+10037,2026-05-18,C1072,Printer,Electronics,3,9500,West,Credit Card,28500
+10038,2026-04-29,C1013,Mouse,Accessories,2,500,West,UPI,1000
+10039,2026-06-16,C1043,USB Drive,Accessories,1,700,North,Credit Card,700
+10040,2026-04-15,C1016,Printer,Electronics,8,9500,South,Cash,76000
+10041,2026-02-12,C1117,Headphones,Electronics,1,2500,West,Debit Card,2500
+10042,2026-03-15,C1049,Headphones,Electronics,9,2500,West,Credit Card,22500
+10043,2026-03-17,C1015,Mouse,Accessories,1,500,North,Debit Card,500
+10044,2026-01-13,C1131,Webcam,Electronics,8,3200,South,UPI,25600
+10045,2026-01-21,C1104,Keyboard,Accessories,2,1200,North,Credit Card,2400
+10046,2026-01-31,C1108,Webcam,Electronics,4,3200,North,UPI,12800
+10047,2026-06-18,C1053,Webcam,Electronics,10,3200,East,Debit Card,32000
+10048,2026-06-21,C1034,Office Desk,Furniture,4,8000,East,Cash,32000
+10049,2026-06-21,C1003,Office Chair,Furniture,8,4500,East,UPI,36000
+10050,2026-04-28,C1138,Webcam,Electronics,10,3200,North,UPI,32000
+10051,2026-02-24,C1018,USB Drive,Accessories,5,700,South,Debit Card,3500
+10052,2026-03-04,C1140,Office Desk,Furniture,5,8000,South,Cash,40000
+10053,2026-06-30,C1027,Office Chair,Furniture,10,4500,North,Debit Card,45000
+10054,2026-02-04,C1070,Office Chair,Furniture,2,4500,North,Credit Card,9000
+10055,2026-03-14,C1068,Webcam,Electronics,4,3200,East,Credit Card,12800
+10056,2026-05-10,C1109,Printer,Electronics,5,9500,North,UPI,47500
+10057,2026-03-12,C1068,Laptop,Electronics,1,55000,East,Credit Card,55000
+10058,2026-02-11,C1029,Printer,Electronics,9,9500,West,UPI,85500
+10059,2026-01-20,C1150,Keyboard,Accessories,9,1200,North,Debit Card,10800
+10060,2026-05-22,C1079,Keyboard,Accessories,7,1200,South,UPI,8400
+10061,2026-04-04,C1027,Laptop,Electronics,6,55000,South,Credit Card,330000
+10062,2026-04-01,C1042,USB Drive,Accessories,7,700,South,Credit Card,4900
+10063,2026-02-15,C1106,Headphones,Electronics,1,2500,South,Debit Card,2500
+10064,2026-06-21,C1098,Mouse,Accessories,5,500,South,UPI,2500
+10065,2026-01-10,C1090,Printer,Electronics,4,9500,South,Cash,38000
+10066,2026-03-20,C1103,Mouse,Accessories,4,500,North,Credit Card,2000
+10067,2026-03-26,C1131,Office Chair,Furniture,2,4500,East,Debit Card,9000
+10068,2026-04-13,C1067,USB Drive,Accessories,6,700,North,UPI,4200
+10069,2026-02-15,C1112,Webcam,Electronics,5,3200,North,UPI,16000
+10070,2026-03-30,C1148,Office Desk,Furniture,7,8000,North,Cash,56000
+10071,2026-02-18,C1134,Office Chair,Furniture,1,4500,West,UPI,4500
+10072,2026-05-18,C1085,Mouse,Accessories,6,500,West,UPI,3000
+10073,2026-06-09,C1105,Office Desk,Furniture,2,8000,East,Debit Card,16000
+10074,2026-03-25,C1108,Headphones,Electronics,5,2500,South,Credit Card,12500
+10075,2026-06-20,C1141,Headphones,Electronics,3,2500,East,Cash,7500
+10076,2026-01-01,C1149,Office Chair,Furniture,5,4500,South,Cash,22500
+10077,2026-06-05,C1055,Office Desk,Furniture,8,8000,West,Cash,64000
+10078,2026-05-11,C1132,Printer,Electronics,3,9500,North,Debit Card,28500
+10079,2026-06-19,C1080,Webcam,Electronics,6,3200,North,Credit Card,19200
+10080,2026-02-27,C1063,Mouse,Accessories,3,500,North,UPI,1500
+10081,2026-05-02,C1148,Webcam,Electronics,2,3200,West,Cash,6400
+10082,2026-02-19,C1038,Headphones,Electronics,8,2500,West,Credit Card,20000
+10083,2026-06-17,C1046,Laptop,Electronics,2,55000,West,Credit Card,110000
+10084,2026-06-28,C1032,USB Drive,Accessories,8,700,North,Credit Card,5600
+10085,2026-04-27,C1130,Keyboard,Accessories,8,1200,East,Cash,9600
+10086,2026-04-20,C1116,USB Drive,Accessories,8,700,South,Cash,5600
+10087,2026-03-08,C1071,Mouse,Accessories,5,500,West,Credit Card,2500
+10088,2026-04-23,C1086,Monitor,Electronics,5,12000,South,Debit Card,60000
+10089,2026-03-23,C1060,USB Drive,Accessories,2,700,South,Credit Card,1400
+10090,2026-04-09,C1105,Keyboard,Accessories,4,1200,North,Cash,4800
+10091,2026-03-26,C1053,USB Drive,Accessories,8,700,West,UPI,5600
+10092,2026-04-18,C1123,Headphones,Electronics,10,2500,North,Cash,25000
+10093,2026-01-02,C1138,Office Desk,Furniture,5,8000,West,Cash,40000
+10094,2026-05-20,C1070,Webcam,Electronics,4,3200,West,Credit Card,12800
+10095,2026-04-22,C1104,Printer,Electronics,1,9500,West,Debit Card,9500
+10096,2026-02-12,C1145,Printer,Electronics,3,9500,North,Cash,28500
+10097,2026-06-19,C1119,Laptop,Electronics,2,55000,West,Credit Card,110000
+10098,2026-02-16,C1055,Laptop,Electronics,5,55000,West,Debit Card,275000
+10099,2026-04-27,C1108,Office Desk,Furniture,6,8000,West,Debit Card,48000
+10100,2026-03-06,C1090,Monitor,Electronics,8,12000,North,UPI,96000
+10101,2026-02-27,C1052,Monitor,Electronics,1,12000,North,Credit Card,12000
+10102,2026-01-06,C1122,Webcam,Electronics,3,3200,South,Credit Card,9600
+10103,2026-06-21,C1066,Monitor,Electronics,10,12000,South,Cash,120000
+10104,2026-04-05,C1080,Keyboard,Accessories,10,1200,North,Credit Card,12000
+10105,2026-01-28,C1102,Webcam,Electronics,1,3200,East,Cash,3200
+10106,2026-02-20,C1078,Monitor,Electronics,10,12000,South,UPI,120000
+10107,2026-06-25,C1137,Webcam,Electronics,2,3200,North,Debit Card,6400
+10108,2026-04-20,C1108,Office Desk,Furniture,2,8000,East,UPI,16000
+10109,2026-05-06,C1040,Monitor,Electronics,7,12000,East,Cash,84000
+10110,2026-04-22,C1120,Keyboard,Accessories,9,1200,East,Cash,10800
+10111,2026-04-22,C1023,Webcam,Electronics,5,3200,East,Credit Card,16000
+10112,2026-03-13,C1087,Printer,Electronics,4,9500,West,Cash,38000
+10113,2026-01-08,C1055,Printer,Electronics,6,9500,South,Cash,57000
+10114,2026-04-01,C1143,Office Chair,Furniture,6,4500,East,Debit Card,27000
+10115,2026-01-03,C1105,USB Drive,Accessories,4,700,North,Credit Card,2800
+10116,2026-05-06,C1115,USB Drive,Accessories,4,700,West,Cash,2800
+10117,2026-01-05,C1063,Monitor,Electronics,5,12000,South,Cash,60000
+10118,2026-03-20,C1109,Webcam,Electronics,6,3200,West,Debit Card,19200
+10119,2026-05-21,C1079,Office Desk,Furniture,6,8000,West,Debit Card,48000
+10120,2026-03-06,C1031,Mouse,Accessories,2,500,South,Debit Card,1000
+10121,2026-05-18,C1071,Keyboard,Accessories,4,1200,South,Cash,4800
+10122,2026-05-31,C1050,USB Drive,Accessories,10,700,East,UPI,7000
+10123,2026-03-17,C1004,Mouse,Accessories,6,500,South,Debit Card,3000
+10124,2026-05-17,C1142,Keyboard,Accessories,5,1200,North,UPI,6000
+10125,2026-03-16,C1147,Keyboard,Accessories,8,1200,North,UPI,9600
+10126,2026-03-14,C1048,Printer,Electronics,8,9500,West,Debit Card,76000
+10127,2026-01-14,C1103,Office Chair,Furniture,8,4500,North,UPI,36000
+10128,2026-05-06,C1039,Monitor,Electronics,10,12000,North,Credit Card,120000
+10129,2026-05-25,C1143,Office Chair,Furniture,2,4500,South,UPI,9000
+10130,2026-04-17,C1116,Webcam,Electronics,10,3200,South,Cash,32000
+10131,2026-04-24,C1146,Office Chair,Furniture,10,4500,West,Debit Card,45000
+10132,2026-06-08,C1055,Laptop,Electronics,10,55000,North,Credit Card,550000
+10133,2026-03-09,C1142,Monitor,Electronics,3,12000,South,Credit Card,36000
+10134,2026-01-20,C1121,Keyboard,Accessories,1,1200,West,Cash,1200
+10135,2026-03-16,C1117,Laptop,Electronics,4,55000,East,Debit Card,220000
+10136,2026-01-19,C1030,Mouse,Accessories,5,500,South,Cash,2500
+10137,2026-05-20,C1019,Mouse,Accessories,3,500,East,Credit Card,1500
+10138,2026-01-16,C1032,Keyboard,Accessories,5,1200,East,Cash,6000
+10139,2026-04-30,C1113,Office Chair,Furniture,7,4500,East,Cash,31500
+10140,2026-01-21,C1065,Webcam,Electronics,1,3200,West,Debit Card,3200
+10141,2026-01-07,C1148,Monitor,Electronics,4,12000,North,Debit Card,48000
+10142,2026-01-11,C1047,Keyboard,Accessories,8,1200,West,Debit Card,9600
+10143,2026-05-30,C1090,Headphones,Electronics,8,2500,North,Cash,20000
+10144,2026-04-15,C1085,Office Desk,Furniture,6,8000,North,Credit Card,48000
+10145,2026-04-16,C1117,Printer,Electronics,5,9500,West,UPI,47500
+10146,2026-01-23,C1104,Office Desk,Furniture,5,8000,East,UPI,40000
+10147,2026-05-12,C1014,Laptop,Electronics,9,55000,West,Cash,495000
+10148,2026-02-18,C1014,USB Drive,Accessories,6,700,West,Cash,4200
+10149,2026-02-22,C1113,Office Chair,Furniture,9,4500,South,Debit Card,40500
+10150,2026-06-28,C1041,Printer,Electronics,2,9500,North,Credit Card,19000
+10151,2026-03-21,C1058,USB Drive,Accessories,1,700,West,UPI,700
+10152,2026-01-30,C1075,Printer,Electronics,2,9500,South,Cash,19000
+10153,2026-05-11,C1063,Office Chair,Furniture,7,4500,West,Cash,31500
+10154,2026-04-27,C1131,USB Drive,Accessories,3,700,West,Credit Card,2100
+10155,2026-02-04,C1130,Monitor,Electronics,5,12000,West,Debit Card,60000
+10156,2026-03-10,C1039,Laptop,Electronics,5,55000,East,Cash,275000
+10157,2026-04-25,C1142,USB Drive,Accessories,8,700,East,Debit Card,5600
+10158,2026-05-20,C1062,Headphones,Electronics,8,2500,East,Credit Card,20000
+10159,2026-05-27,C1082,Headphones,Electronics,4,2500,West,UPI,10000
+10160,2026-05-02,C1010,Headphones,Electronics,7,2500,South,Cash,17500
+10161,2026-02-02,C1113,USB Drive,Accessories,10,700,East,UPI,7000
+10162,2026-01-26,C1105,USB Drive,Accessories,8,700,North,Credit Card,5600
+10163,2026-06-17,C1087,Keyboard,Accessories,2,1200,West,Debit Card,2400
+10164,2026-06-09,C1082,Headphones,Electronics,2,2500,East,Cash,5000
+10165,2026-06-10,C1061,Printer,Electronics,9,9500,North,UPI,85500
+10166,2026-06-11,C1026,Office Chair,Furniture,4,4500,North,Cash,18000
+10167,2026-06-12,C1008,Monitor,Electronics,8,12000,South,Debit Card,96000
+10168,2026-01-12,C1096,Office Desk,Furniture,1,8000,East,Debit Card,8000
+10169,2026-04-21,C1044,Keyboard,Accessories,4,1200,West,Credit Card,4800
+10170,2026-02-14,C1128,Monitor,Electronics,10,12000,West,Credit Card,120000
+10171,2026-05-30,C1118,Keyboard,Accessories,4,1200,West,Debit Card,4800
+10172,2026-03-07,C1019,Laptop,Electronics,8,55000,East,Credit Card,440000
+10173,2026-04-24,C1065,Office Desk,Furniture,10,8000,East,Cash,80000
+10174,2026-04-27,C1028,Office Chair,Furniture,4,4500,West,Cash,18000
+10175,2026-03-02,C1076,Headphones,Electronics,10,2500,East,Debit Card,25000
+10176,2026-01-06,C1128,Headphones,Electronics,5,2500,North,UPI,12500
+10177,2026-03-15,C1049,Mouse,Accessories,10,500,East,Credit Card,5000
+10178,2026-06-08,C1080,Office Chair,Furniture,3,4500,North,UPI,13500
+10179,2026-04-23,C1024,Laptop,Electronics,10,55000,East,Credit Card,550000
+10180,2026-03-17,C1034,Office Desk,Furniture,7,8000,South,Credit Card,56000
+10181,2026-05-19,C1066,Office Desk,Furniture,9,8000,East,Credit Card,72000
+10182,2026-05-04,C1020,Office Chair,Furniture,6,4500,North,Cash,27000
+10183,2026-02-06,C1102,Mouse,Accessories,7,500,East,UPI,3500
+10184,2026-01-04,C1095,Office Chair,Furniture,9,4500,North,Cash,40500
+10185,2026-06-22,C1028,Office Chair,Furniture,10,4500,West,Debit Card,45000
+10186,2026-06-22,C1057,Mouse,Accessories,8,500,North,Debit Card,4000
+10187,2026-06-15,C1030,Monitor,Electronics,8,12000,East,Cash,96000
+10188,2026-02-05,C1030,Laptop,Electronics,1,55000,East,Cash,55000
+10189,2026-01-25,C1117,Mouse,Accessories,9,500,South,Cash,4500
+10190,2026-04-05,C1026,USB Drive,Accessories,7,700,South,Cash,4900
+10191,2026-05-06,C1095,Webcam,Electronics,7,3200,East,UPI,22400
+10192,2026-02-25,C1026,Printer,Electronics,8,9500,South,Debit Card,76000
+10193,2026-06-25,C1102,Office Desk,Furniture,9,8000,East,UPI,72000
+10194,2026-03-12,C1055,Mouse,Accessories,2,500,West,UPI,1000
+10195,2026-06-14,C1063,Webcam,Electronics,1,3200,North,Debit Card,3200
+10196,2026-02-02,C1056,Webcam,Electronics,4,3200,North,Credit Card,12800
+10197,2026-03-01,C1038,Office Desk,Furniture,3,8000,North,Debit Card,24000
+10198,2026-02-03,C1007,USB Drive,Accessories,5,700,South,UPI,3500
+10199,2026-02-03,C1005,Laptop,Electronics,6,55000,South,Debit Card,330000
+10200,2026-02-14,C1135,Office Chair,Furniture,1,4500,South,Cash,4500
+10201,2026-01-30,C1132,Monitor,Electronics,8,12000,West,Debit Card,96000
+10202,2026-06-01,C1134,Monitor,Electronics,8,12000,South,UPI,96000
+10203,2026-03-19,C1103,Printer,Electronics,1,9500,North,Cash,9500
+10204,2026-04-20,C1021,Monitor,Electronics,8,12000,West,UPI,96000
+10205,2026-03-24,C1071,Webcam,Electronics,3,3200,North,Credit Card,9600
+10206,2026-06-09,C1136,Webcam,Electronics,9,3200,East,Cash,28800
+10207,2026-03-17,C1030,Printer,Electronics,9,9500,West,UPI,85500
+10208,2026-06-17,C1059,USB Drive,Accessories,4,700,West,Cash,2800
+10209,2026-04-16,C1025,Office Desk,Furniture,8,8000,West,Cash,64000
+10210,2026-03-22,C1040,Headphones,Electronics,6,2500,East,Debit Card,15000
+10211,2026-06-25,C1024,Printer,Electronics,2,9500,North,UPI,19000
+10212,2026-04-21,C1144,Monitor,Electronics,6,12000,South,UPI,72000
+10213,2026-05-24,C1109,Office Desk,Furniture,2,8000,West,Debit Card,16000
+10214,2026-01-14,C1027,Office Chair,Furniture,10,4500,East,Debit Card,45000
+10215,2026-05-28,C1058,USB Drive,Accessories,4,700,South,Cash,2800
+10216,2026-01-28,C1072,Office Desk,Furniture,9,8000,East,UPI,72000
+10217,2026-05-27,C1008,Mouse,Accessories,7,500,North,Debit Card,3500
+10218,2026-02-16,C1002,Office Chair,Furniture,5,4500,East,Debit Card,22500
+10219,2026-02-16,C1037,Keyboard,Accessories,10,1200,West,UPI,12000
+10220,2026-06-12,C1108,Laptop,Electronics,2,55000,South,Cash,110000
+10221,2026-04-27,C1084,Office Desk,Furniture,3,8000,East,Debit Card,24000
+10222,2026-05-26,C1041,Webcam,Electronics,2,3200,North,Credit Card,6400
+10223,2026-06-08,C1109,Laptop,Electronics,2,55000,East,Cash,110000
+10224,2026-05-05,C1056,Webcam,Electronics,8,3200,West,Debit Card,25600
+10225,2026-05-12,C1073,Monitor,Electronics,6,12000,West,UPI,72000
+10226,2026-06-23,C1057,Webcam,Electronics,8,3200,East,UPI,25600
+10227,2026-04-12,C1078,Webcam,Electronics,1,3200,North,Credit Card,3200
+10228,2026-02-24,C1031,Keyboard,Accessories,5,1200,East,Debit Card,6000
+10229,2026-01-02,C1098,Printer,Electronics,7,9500,South,Credit Card,66500
+10230,2026-05-17,C1102,Mouse,Accessories,9,500,East,UPI,4500
+10231,2026-01-11,C1081,Headphones,Electronics,1,2500,West,UPI,2500
+10232,2026-05-28,C1075,Headphones,Electronics,10,2500,West,Cash,25000
+10233,2026-01-30,C1118,Headphones,Electronics,1,2500,East,Credit Card,2500
+10234,2026-06-26,C1063,Office Desk,Furniture,2,8000,West,UPI,16000
+10235,2026-04-22,C1080,Webcam,Electronics,7,3200,North,Cash,22400
+10236,2026-03-28,C1131,Mouse,Accessories,6,500,South,UPI,3000
+10237,2026-06-12,C1090,Monitor,Electronics,9,12000,South,Debit Card,108000
+10238,2026-06-15,C1066,Keyboard,Accessories,4,1200,North,Credit Card,4800
+10239,2026-02-20,C1046,Keyboard,Accessories,10,1200,South,UPI,12000
+10240,2026-06-10,C1081,Printer,Electronics,8,9500,West,Debit Card,76000
+10241,2026-02-08,C1078,Printer,Electronics,2,9500,West,Cash,19000
+10242,2026-03-12,C1080,Webcam,Electronics,1,3200,East,UPI,3200
+10243,2026-04-29,C1074,Printer,Electronics,1,9500,North,Debit Card,9500
+10244,2026-01-20,C1149,Monitor,Electronics,10,12000,West,Cash,120000
+10245,2026-05-22,C1122,Laptop,Electronics,8,55000,South,Debit Card,440000
+10246,2026-05-09,C1088,Keyboard,Accessories,1,1200,West,UPI,1200
+10247,2026-01-22,C1113,USB Drive,Accessories,3,700,North,Credit Card,2100
+10248,2026-04-23,C1096,USB Drive,Accessories,9,700,South,Debit Card,6300
+10249,2026-03-14,C1086,Headphones,Electronics,7,2500,East,UPI,17500
+10250,2026-01-17,C1065,Office Desk,Furniture,2,8000,West,Debit Card,16000
+10251,2026-06-18,C1150,Webcam,Electronics,3,3200,East,UPI,9600
+10252,2026-06-19,C1034,Keyboard,Accessories,6,1200,East,Cash,7200
+10253,2026-06-02,C1033,Monitor,Electronics,5,12000,West,Debit Card,60000
+10254,2026-06-21,C1005,USB Drive,Accessories,2,700,West,Debit Card,1400
+10255,2026-04-03,C1125,Office Chair,Furniture,3,4500,South,Debit Card,13500
+10256,2026-02-19,C1076,Mouse,Accessories,3,500,South,UPI,1500
+10257,2026-01-26,C1034,USB Drive,Accessories,9,700,North,Debit Card,6300
+10258,2026-06-02,C1043,Headphones,Electronics,3,2500,South,Credit Card,7500
+10259,2026-04-23,C1114,Laptop,Electronics,7,55000,East,Credit Card,385000
+10260,2026-06-06,C1080,Office Chair,Furniture,8,4500,South,Credit Card,36000
+10261,2026-05-01,C1073,Mouse,Accessories,6,500,West,Cash,3000
+10262,2026-04-08,C1052,USB Drive,Accessories,9,700,West,Credit Card,6300
+10263,2026-06-04,C1096,Keyboard,Accessories,5,1200,North,Cash,6000
+10264,2026-05-22,C1022,Monitor,Electronics,9,12000,North,Debit Card,108000
+10265,2026-02-11,C1024,Office Chair,Furniture,8,4500,South,Cash,36000
+10266,2026-02-26,C1014,Printer,Electronics,6,9500,North,Cash,57000
+10267,2026-04-12,C1021,USB Drive,Accessories,6,700,South,Cash,4200
+10268,2026-04-06,C1086,Mouse,Accessories,1,500,East,UPI,500
+10269,2026-02-07,C1036,Keyboard,Accessories,1,1200,East,Cash,1200
+10270,2026-06-30,C1005,Printer,Electronics,8,9500,North,UPI,76000
+10271,2026-03-07,C1074,Mouse,Accessories,3,500,West,UPI,1500
+10272,2026-03-02,C1108,Office Chair,Furniture,2,4500,North,Credit Card,9000
+10273,2026-06-13,C1128,Webcam,Electronics,8,3200,North,UPI,25600
+10274,2026-06-02,C1075,USB Drive,Accessories,1,700,South,Credit Card,700
+10275,2026-04-20,C1147,Laptop,Electronics,10,55000,East,Credit Card,550000
+10276,2026-04-17,C1135,Keyboard,Accessories,2,1200,East,UPI,2400
+10277,2026-05-20,C1121,USB Drive,Accessories,9,700,North,Cash,6300
+10278,2026-01-12,C1092,Headphones,Electronics,6,2500,East,UPI,15000
+10279,2026-01-18,C1035,Office Desk,Furniture,4,8000,North,Debit Card,32000
+10280,2026-01-12,C1119,Office Desk,Furniture,9,8000,East,Credit Card,72000
+10281,2026-06-28,C1118,Printer,Electronics,3,9500,South,UPI,28500
+10282,2026-01-10,C1011,Office Chair,Furniture,4,4500,North,Credit Card,18000
+10283,2026-03-22,C1065,Office Chair,Furniture,9,4500,West,Cash,40500
+10284,2026-01-10,C1085,Mouse,Accessories,5,500,East,UPI,2500
+10285,2026-03-11,C1113,Monitor,Electronics,6,12000,West,Cash,72000
+10286,2026-04-09,C1095,Office Desk,Furniture,3,8000,West,Cash,24000
+10287,2026-05-13,C1111,Office Chair,Furniture,2,4500,West,UPI,9000
+10288,2026-06-04,C1027,Keyboard,Accessories,9,1200,East,Debit Card,10800
+10289,2026-01-21,C1110,Office Desk,Furniture,5,8000,East,Cash,40000
+10290,2026-02-12,C1091,Printer,Electronics,6,9500,West,UPI,57000
+10291,2026-06-07,C1104,Headphones,Electronics,5,2500,North,UPI,12500
+10292,2026-04-04,C1113,USB Drive,Accessories,3,700,North,Credit Card,2100
+10293,2026-01-09,C1093,Keyboard,Accessories,2,1200,South,Debit Card,2400
+10294,2026-04-09,C1095,Webcam,Electronics,1,3200,South,Cash,3200
+10295,2026-04-06,C1102,Printer,Electronics,2,9500,South,Debit Card,19000
+10296,2026-03-22,C1048,Office Chair,Furniture,4,4500,North,UPI,18000
+10297,2026-05-08,C1067,USB Drive,Accessories,7,700,North,Debit Card,4900
+10298,2026-06-30,C1052,Printer,Electronics,4,9500,East,Cash,38000
+10299,2026-02-01,C1114,Keyboard,Accessories,2,1200,West,Credit Card,2400
+10300,2026-01-23,C1077,Office Desk,Furniture,6,8000,North,Debit Card,48000
+10301,2026-02-10,C1052,Keyboard,Accessories,6,1200,South,UPI,7200
+10302,2026-02-05,C1142,Mouse,Accessories,8,500,North,Debit Card,4000
+10303,2026-05-27,C1017,Office Desk,Furniture,8,8000,South,UPI,64000
+10304,2026-03-21,C1148,Headphones,Electronics,8,2500,West,Cash,20000
+10305,2026-01-19,C1120,Keyboard,Accessories,6,1200,North,Cash,7200
+10306,2026-06-24,C1034,USB Drive,Accessories,6,700,South,Credit Card,4200
+10307,2026-04-21,C1078,USB Drive,Accessories,1,700,North,Credit Card,700
+10308,2026-02-12,C1133,Keyboard,Accessories,6,1200,South,Debit Card,7200
+10309,2026-03-14,C1033,Monitor,Electronics,5,12000,South,Debit Card,60000
+10310,2026-06-10,C1149,Office Chair,Furniture,10,4500,North,Credit Card,45000
+10311,2026-02-09,C1008,Keyboard,Accessories,10,1200,East,UPI,12000
+10312,2026-01-21,C1147,Laptop,Electronics,10,55000,East,Credit Card,550000
+10313,2026-04-17,C1078,Webcam,Electronics,1,3200,West,Debit Card,3200
+10314,2026-05-04,C1019,Mouse,Accessories,7,500,East,Cash,3500
+10315,2026-06-26,C1124,Laptop,Electronics,3,55000,West,Cash,165000
+10316,2026-04-29,C1082,Mouse,Accessories,6,500,South,Debit Card,3000
+10317,2026-03-30,C1082,Headphones,Electronics,3,2500,East,UPI,7500
+10318,2026-03-03,C1064,Printer,Electronics,2,9500,East,Cash,19000
+10319,2026-02-06,C1108,Monitor,Electronics,1,12000,East,Cash,12000
+10320,2026-03-05,C1041,Keyboard,Accessories,6,1200,East,Credit Card,7200
+10321,2026-05-08,C1128,USB Drive,Accessories,8,700,West,Debit Card,5600
+10322,2026-01-06,C1056,Monitor,Electronics,7,12000,West,Credit Card,84000
+10323,2026-05-30,C1127,Office Desk,Furniture,1,8000,North,Debit Card,8000
+10324,2026-06-02,C1111,Printer,Electronics,5,9500,North,UPI,47500
+10325,2026-02-04,C1012,Office Chair,Furniture,6,4500,West,Debit Card,27000
+10326,2026-04-13,C1142,Laptop,Electronics,10,55000,South,Debit Card,550000
+10327,2026-03-15,C1031,Monitor,Electronics,7,12000,West,Debit Card,84000
+10328,2026-02-02,C1143,Monitor,Electronics,7,12000,East,Debit Card,84000
+10329,2026-04-04,C1012,Keyboard,Accessories,4,1200,West,UPI,4800
+10330,2026-01-10,C1039,Keyboard,Accessories,6,1200,West,Cash,7200
+10331,2026-06-05,C1042,USB Drive,Accessories,3,700,East,Debit Card,2100
+10332,2026-04-11,C1145,Webcam,Electronics,5,3200,East,Cash,16000
+10333,2026-03-18,C1029,Printer,Electronics,1,9500,East,Debit Card,9500
+10334,2026-04-17,C1068,Webcam,Electronics,5,3200,North,Cash,16000
+10335,2026-06-17,C1150,Webcam,Electronics,10,3200,South,UPI,32000
+10336,2026-05-03,C1063,Keyboard,Accessories,9,1200,West,Credit Card,10800
+10337,2026-01-09,C1113,Webcam,Electronics,2,3200,South,UPI,6400
+10338,2026-03-22,C1106,Headphones,Electronics,3,2500,West,Credit Card,7500
+10339,2026-05-09,C1133,Webcam,Electronics,8,3200,North,Credit Card,25600
+10340,2026-02-23,C1081,USB Drive,Accessories,6,700,West,Cash,4200
+10341,2026-02-14,C1068,Printer,Electronics,9,9500,East,Debit Card,85500
+10342,2026-06-06,C1143,Printer,Electronics,4,9500,South,Debit Card,38000
+10343,2026-03-18,C1126,Mouse,Accessories,5,500,East,Credit Card,2500
+10344,2026-03-23,C1032,Printer,Electronics,6,9500,East,Debit Card,57000
+10345,2026-05-27,C1038,USB Drive,Accessories,7,700,West,Debit Card,4900
+10346,2026-03-16,C1114,Laptop,Electronics,5,55000,North,Debit Card,275000
+10347,2026-06-17,C1138,Office Chair,Furniture,8,4500,South,Credit Card,36000
+10348,2026-03-11,C1062,USB Drive,Accessories,5,700,South,UPI,3500
+10349,2026-03-04,C1014,Laptop,Electronics,9,55000,South,Credit Card,495000
+10350,2026-01-26,C1036,Headphones,Electronics,6,2500,West,UPI,15000
+10351,2026-01-02,C1123,USB Drive,Accessories,3,700,West,Cash,2100
+10352,2026-06-16,C1016,Mouse,Accessories,5,500,East,Debit Card,2500
+10353,2026-01-23,C1107,Webcam,Electronics,4,3200,North,Credit Card,12800
+10354,2026-02-15,C1075,Laptop,Electronics,7,55000,West,Credit Card,385000
+10355,2026-01-10,C1073,Laptop,Electronics,5,55000,North,Debit Card,275000
+10356,2026-04-27,C1130,USB Drive,Accessories,9,700,West,Credit Card,6300
+10357,2026-04-30,C1042,Office Chair,Furniture,4,4500,North,Debit Card,18000
+10358,2026-04-28,C1076,Office Chair,Furniture,3,4500,North,Debit Card,13500
+10359,2026-05-26,C1132,Mouse,Accessories,3,500,West,Cash,1500
+10360,2026-03-25,C1036,Monitor,Electronics,7,12000,North,Credit Card,84000
+10361,2026-05-03,C1099,Office Desk,Furniture,4,8000,North,Debit Card,32000
+10362,2026-03-02,C1150,Printer,Electronics,5,9500,East,Debit Card,47500
+10363,2026-05-27,C1016,Laptop,Electronics,5,55000,East,Credit Card,275000
+10364,2026-06-20,C1104,Monitor,Electronics,8,12000,East,Credit Card,96000
+10365,2026-06-25,C1095,USB Drive,Accessories,5,700,North,Debit Card,3500
+10366,2026-06-07,C1040,Mouse,Accessories,4,500,South,Cash,2000
+10367,2026-04-27,C1138,Webcam,Electronics,6,3200,West,Cash,19200
+10368,2026-06-20,C1136,Mouse,Accessories,4,500,North,Cash,2000
+10369,2026-06-30,C1141,Office Desk,Furniture,2,8000,North,UPI,16000
+10370,2026-05-10,C1084,Mouse,Accessories,10,500,South,Credit Card,5000
+10371,2026-05-14,C1024,Printer,Electronics,2,9500,South,Cash,19000
+10372,2026-05-11,C1132,Printer,Electronics,1,9500,West,Credit Card,9500
+10373,2026-04-17,C1079,Printer,Electronics,10,9500,North,Cash,95000
+10374,2026-01-06,C1149,Headphones,Electronics,5,2500,North,Credit Card,12500
+10375,2026-01-19,C1139,Laptop,Electronics,7,55000,East,UPI,385000
+10376,2026-01-16,C1105,Monitor,Electronics,8,12000,North,Debit Card,96000
+10377,2026-02-16,C1115,Keyboard,Accessories,7,1200,East,Cash,8400
+10378,2026-04-07,C1031,Headphones,Electronics,2,2500,South,Debit Card,5000
+10379,2026-02-15,C1001,USB Drive,Accessories,7,700,South,Credit Card,4900
+10380,2026-01-06,C1059,Office Chair,Furniture,8,4500,West,Cash,36000
+10381,2026-03-05,C1049,Printer,Electronics,6,9500,South,Debit Card,57000
+10382,2026-01-29,C1053,Laptop,Electronics,7,55000,North,Credit Card,385000
+10383,2026-01-18,C1013,Monitor,Electronics,10,12000,North,Cash,120000
+10384,2026-03-04,C1139,Laptop,Electronics,7,55000,West,Credit Card,385000
+10385,2026-02-25,C1148,Laptop,Electronics,3,55000,East,Credit Card,165000
+10386,2026-03-23,C1078,Webcam,Electronics,10,3200,East,Credit Card,32000
+10387,2026-02-06,C1071,USB Drive,Accessories,4,700,West,Debit Card,2800
+10388,2026-01-16,C1143,USB Drive,Accessories,10,700,South,Cash,7000
+10389,2026-05-07,C1107,Laptop,Electronics,6,55000,West,Debit Card,330000
+10390,2026-04-15,C1138,Keyboard,Accessories,5,1200,West,Credit Card,6000
+10391,2026-05-02,C1119,Mouse,Accessories,4,500,East,Credit Card,2000
+10392,2026-01-15,C1100,USB Drive,Accessories,7,700,West,Credit Card,4900
+10393,2026-03-04,C1116,Office Chair,Furniture,4,4500,East,UPI,18000
+10394,2026-04-05,C1069,Monitor,Electronics,9,12000,South,UPI,108000
+10395,2026-04-07,C1049,Webcam,Electronics,10,3200,North,UPI,32000
+10396,2026-05-31,C1086,USB Drive,Accessories,4,700,West,Credit Card,2800
+10397,2026-03-19,C1123,Laptop,Electronics,4,55000,South,UPI,220000
+10398,2026-03-04,C1142,Webcam,Electronics,4,3200,West,Credit Card,12800
+10399,2026-03-24,C1079,Office Chair,Furniture,7,4500,West,Debit Card,31500
+10400,2026-03-08,C1026,Office Desk,Furniture,9,8000,West,Cash,72000
+10401,2026-05-01,C1106,Office Desk,Furniture,4,8000,East,Debit Card,32000
+10402,2026-01-12,C1067,Webcam,Electronics,4,3200,South,UPI,12800
+10403,2026-05-22,C1040,Webcam,Electronics,10,3200,West,Debit Card,32000
+10404,2026-02-20,C1128,Office Desk,Furniture,4,8000,West,Credit Card,32000
+10405,2026-05-21,C1118,Office Desk,Furniture,5,8000,West,Cash,40000
+10406,2026-02-13,C1048,Office Desk,Furniture,3,8000,South,Cash,24000
+10407,2026-05-19,C1013,Laptop,Electronics,9,55000,North,UPI,495000
+10408,2026-01-02,C1039,Headphones,Electronics,3,2500,South,UPI,7500
+10409,2026-01-03,C1016,Mouse,Accessories,9,500,West,Debit Card,4500
+10410,2026-06-08,C1002,Webcam,Electronics,8,3200,West,UPI,25600
+10411,2026-05-17,C1136,USB Drive,Accessories,7,700,North,UPI,4900
+10412,2026-03-12,C1046,USB Drive,Accessories,5,700,North,Cash,3500
+10413,2026-01-28,C1050,Monitor,Electronics,9,12000,South,Credit Card,108000
+10414,2026-06-08,C1102,USB Drive,Accessories,5,700,East,Debit Card,3500
+10415,2026-01-21,C1058,Office Desk,Furniture,7,8000,West,Credit Card,56000
+10416,2026-03-18,C1098,Monitor,Electronics,1,12000,North,Cash,12000
+10417,2026-04-07,C1044,USB Drive,Accessories,8,700,North,UPI,5600
+10418,2026-01-22,C1136,Printer,Electronics,7,9500,East,UPI,66500
+10419,2026-01-11,C1012,Mouse,Accessories,4,500,West,Debit Card,2000
+10420,2026-01-20,C1081,Office Chair,Furniture,9,4500,North,Credit Card,40500
+10421,2026-01-05,C1020,Mouse,Accessories,10,500,South,Cash,5000
+10422,2026-03-18,C1139,Keyboard,Accessories,10,1200,South,Cash,12000
+10423,2026-03-26,C1014,Headphones,Electronics,3,2500,North,Debit Card,7500
+10424,2026-01-26,C1102,Headphones,Electronics,4,2500,North,Debit Card,10000
+10425,2026-03-25,C1059,Laptop,Electronics,5,55000,West,Cash,275000
+10426,2026-04-02,C1150,USB Drive,Accessories,7,700,West,Credit Card,4900
+10427,2026-06-19,C1019,Headphones,Electronics,2,2500,East,Credit Card,5000
+10428,2026-01-22,C1100,Office Chair,Furniture,3,4500,West,Credit Card,13500
+10429,2026-03-23,C1079,Office Desk,Furniture,2,8000,North,UPI,16000
+10430,2026-04-24,C1023,Office Desk,Furniture,5,8000,North,Credit Card,40000
+10431,2026-02-17,C1007,Headphones,Electronics,8,2500,West,UPI,20000
+10432,2026-01-23,C1099,Office Desk,Furniture,9,8000,North,Debit Card,72000
+10433,2026-01-04,C1144,Office Chair,Furniture,7,4500,West,UPI,31500
+10434,2026-03-04,C1044,Webcam,Electronics,9,3200,South,Cash,28800
+10435,2026-02-05,C1038,Office Chair,Furniture,5,4500,East,Cash,22500
+10436,2026-01-17,C1077,Keyboard,Accessories,7,1200,East,Cash,8400
+10437,2026-05-04,C1127,Monitor,Electronics,6,12000,East,Credit Card,72000
+10438,2026-06-02,C1035,Webcam,Electronics,4,3200,West,UPI,12800
+10439,2026-03-19,C1085,Laptop,Electronics,7,55000,East,Cash,385000
+10440,2026-04-23,C1083,Office Desk,Furniture,7,8000,South,Debit Card,56000
+10441,2026-06-04,C1102,Mouse,Accessories,8,500,East,Credit Card,4000
+10442,2026-03-23,C1097,Office Chair,Furniture,8,4500,South,Debit Card,36000
+10443,2026-03-13,C1140,Headphones,Electronics,6,2500,North,Credit Card,15000
+10444,2026-02-16,C1113,USB Drive,Accessories,1,700,West,Credit Card,700
+10445,2026-03-16,C1078,Monitor,Electronics,7,12000,West,Credit Card,84000
+10446,2026-03-03,C1019,Office Chair,Furniture,3,4500,West,Cash,13500
+10447,2026-04-25,C1140,Webcam,Electronics,8,3200,West,Cash,25600
+10448,2026-01-10,C1064,Office Desk,Furniture,9,8000,North,UPI,72000
+10449,2026-06-18,C1085,Office Desk,Furniture,3,8000,North,Cash,24000
+10450,2026-04-21,C1057,Monitor,Electronics,1,12000,North,Debit Card,12000
+10451,2026-05-11,C1096,USB Drive,Accessories,9,700,South,Cash,6300
+10452,2026-04-11,C1007,Printer,Electronics,10,9500,South,Debit Card,95000
+10453,2026-05-04,C1030,Monitor,Electronics,5,12000,West,UPI,60000
+10454,2026-02-06,C1053,Office Desk,Furniture,5,8000,East,Cash,40000
+10455,2026-05-14,C1113,Printer,Electronics,6,9500,West,UPI,57000
+10456,2026-06-28,C1012,Printer,Electronics,6,9500,North,Debit Card,57000
+10457,2026-01-30,C1063,Laptop,Electronics,6,55000,North,Credit Card,330000
+10458,2026-05-13,C1144,Keyboard,Accessories,9,1200,South,Debit Card,10800
+10459,2026-04-20,C1048,Printer,Electronics,4,9500,West,Credit Card,38000
+10460,2026-06-13,C1116,Headphones,Electronics,7,2500,North,Credit Card,17500
+10461,2026-06-01,C1053,Headphones,Electronics,7,2500,North,Credit Card,17500
+10462,2026-03-13,C1094,Monitor,Electronics,10,12000,North,Credit Card,120000
+10463,2026-03-25,C1126,Mouse,Accessories,8,500,North,Debit Card,4000
+10464,2026-05-16,C1030,Office Desk,Furniture,10,8000,West,Cash,80000
+10465,2026-03-31,C1022,Office Desk,Furniture,8,8000,South,Debit Card,64000
+10466,2026-06-22,C1079,Keyboard,Accessories,6,1200,North,Credit Card,7200
+10467,2026-01-30,C1108,Keyboard,Accessories,6,1200,South,Cash,7200
+10468,2026-06-02,C1048,Keyboard,Accessories,10,1200,West,Cash,12000
+10469,2026-05-05,C1074,USB Drive,Accessories,3,700,South,Cash,2100
+10470,2026-02-05,C1092,Keyboard,Accessories,6,1200,West,UPI,7200
+10471,2026-01-03,C1144,Printer,Electronics,3,9500,South,Cash,28500
+10472,2026-05-10,C1114,Printer,Electronics,7,9500,West,Cash,66500
+10473,2026-05-06,C1075,Keyboard,Accessories,2,1200,North,Credit Card,2400
+10474,2026-01-09,C1118,Office Chair,Furniture,4,4500,East,Credit Card,18000
+10475,2026-05-25,C1069,Printer,Electronics,9,9500,North,UPI,85500
+10476,2026-05-20,C1140,Office Desk,Furniture,9,8000,North,Cash,72000
+10477,2026-02-25,C1009,Headphones,Electronics,2,2500,South,Debit Card,5000
+10478,2026-04-26,C1031,Office Chair,Furniture,6,4500,North,Cash,27000
+10479,2026-03-02,C1043,Mouse,Accessories,10,500,East,Cash,5000
+10480,2026-06-07,C1146,Keyboard,Accessories,4,1200,South,UPI,4800
+10481,2026-03-31,C1075,USB Drive,Accessories,5,700,South,Debit Card,3500
+10482,2026-03-16,C1106,Webcam,Electronics,5,3200,North,Credit Card,16000
+10483,2026-01-16,C1038,Office Chair,Furniture,3,4500,South,Credit Card,13500
+10484,2026-03-24,C1148,Mouse,Accessories,7,500,West,Credit Card,3500
+10485,2026-06-11,C1020,Office Chair,Furniture,7,4500,West,Cash,31500
+10486,2026-06-12,C1117,Monitor,Electronics,7,12000,East,Debit Card,84000
+10487,2026-05-05,C1118,Office Desk,Furniture,10,8000,North,UPI,80000
+10488,2026-06-12,C1110,Office Desk,Furniture,2,8000,West,Credit Card,16000
+10489,2026-02-24,C1087,Printer,Electronics,5,9500,East,Debit Card,47500
+10490,2026-05-21,C1013,Webcam,Electronics,3,3200,West,Debit Card,9600
+10491,2026-01-12,C1041,Monitor,Electronics,8,12000,North,UPI,96000
+10492,2026-04-23,C1034,Printer,Electronics,1,9500,West,Credit Card,9500
+10493,2026-06-16,C1093,Office Chair,Furniture,3,4500,East,UPI,13500
+10494,2026-03-06,C1102,Monitor,Electronics,6,12000,South,UPI,72000
+10495,2026-06-10,C1025,Office Chair,Furniture,4,4500,West,UPI,18000
+10496,2026-01-01,C1058,Mouse,Accessories,8,500,North,Credit Card,4000
+10497,2026-05-13,C1031,Printer,Electronics,1,9500,North,Debit Card,9500
+10498,2026-04-19,C1099,Keyboard,Accessories,8,1200,North,Credit Card,9600
+10499,2026-01-23,C1077,Monitor,Electronics,2,12000,East,Debit Card,24000
+10500,2026-02-05,C1136,Headphones,Electronics,3,2500,South,UPI,7500
